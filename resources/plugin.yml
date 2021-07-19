@@ -1,0 +1,11 @@
+name: AkitaStatistics
+version: ${project.version}
+main: xyz.namekun.akitastatistics.AkitaStatistics
+api-version: 1.17
+authors: [ Nametarou ]
+description: This shows the information of Akita Pref., which is about population, weather, and so on.
+
+commands:
+  akita:
+    usage: /akita help
+    description: unti
